@@ -22,9 +22,8 @@ Edição:
 Canva: Usado para combinar textos e imagens, criando o layout do e-book.
 
 # 🚀 Resultados
-E-book Finalizado: 10 capítulos com histórias e imagens.
+E-book Finalizado: 5 capítulos com histórias e imagens.
 Feedback Positivo: Leitores gostaram da criatividade e visual do e-book.
-Distribuição Online: Disponível em várias plataformas de leitura digital.
 
 # 💭 Reflexão (Opcional)
 Criar um e-book com IAs foi uma experiência nova e interessante. Foi desafiador manter a coesão do conteúdo, mas as IAs ajudaram a acelerar o processo criativo.
